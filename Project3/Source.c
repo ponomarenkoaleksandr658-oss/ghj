@@ -70,5 +70,6 @@ else
 			printf("\n Цифра %d встречается %d раз(а) \n",a,count);
 		}
 		*/
+	printf("Kock");
 	_getch();
 }

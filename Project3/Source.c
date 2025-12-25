@@ -71,5 +71,6 @@ else
 		}
 		*/
 	printf("Kock");
+	printf("df");
 	_getch();
 }
